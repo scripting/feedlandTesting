@@ -8,5 +8,5 @@ Thanks for accepting my invitation to be part of the initial testers for a new i
 
 I want a chance to test it out with a few users before making any kind of announcement, so it's especially important that you keep everything we talk about here in confidence, until it's announced publicly. 
 
-I'll post a message in the Issues section to explain what's going on when we're ready to take the first step. 
+I have posted a <a href="https://github.com/scripting/feedlandTesting/issues/1">message</a> in the Issues section to explain what's going on. 
 
